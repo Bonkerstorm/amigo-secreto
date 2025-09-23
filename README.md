@@ -1,2 +1,2 @@
 # amigo-secreto
-Challenge amigo secreto
+Challenge completo amigo secreto
